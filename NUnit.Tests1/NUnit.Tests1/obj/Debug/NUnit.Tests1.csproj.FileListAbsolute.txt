@@ -1,0 +1,10 @@
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\bin\Debug\WebDriver.dll
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\bin\Debug\WebDriver.xml
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CoreCompileInputs.cache
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\AmidVS\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
