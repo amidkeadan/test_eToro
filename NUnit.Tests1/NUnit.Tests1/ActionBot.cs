@@ -44,7 +44,7 @@ namespace NUnit.Tests1
 
         public void clickObject(IWebElement button)
         {
-            button.Click();
+            button.Click();          
             Console.WriteLine("click botton");
         }
     }

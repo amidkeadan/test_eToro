@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace NUnit.Tests1
@@ -28,12 +29,14 @@ namespace NUnit.Tests1
         {
             markitname = By.XPath("//div[@class='user-info']/span[text()='"+ markets + "']");
             bot.ClickOnelement(markitname);
+            Thread.Sleep(5000);
             return this;
         }
 
         public Trade ClickTradButton()
         {
             bot.ClickOnelement(TradeBtn);
+            Thread.Sleep(5000);
             return new Trade(driver);
         }
 

@@ -62,6 +62,7 @@ namespace NUnit.Tests1
             {
                 val = stopVal;
                 bot.clickObject(minusButton);
+                Thread.Sleep(1000);
                 stopVal = Double.Parse(stoplosstabtitlevalue.Text.Replace("$", ""));
             }
             while (stopVal != val);
